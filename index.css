@@ -62,3 +62,8 @@
   border: 1px solid #504869;
   box-shadow: 1.5px 1.5px 2px #808080;
 }
+
+.destacado {
+    background-color: #ffd966;
+    font-weight: bold;
+}
