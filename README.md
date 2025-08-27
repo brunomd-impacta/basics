@@ -15,6 +15,5 @@ A partir do projeto desenvolvido em conjunto na aula ([repositório base](https:
 - Bruno Martins Damasceno - bruno.damasceno@aluno.faculdadeimpacta.com.br
 
 PS.: Mandei um email para o professor explicando a necessidade de fazer essa atividade sozinho.
-Atividade em andamento.
 
 
